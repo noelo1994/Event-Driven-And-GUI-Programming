@@ -1,0 +1,29 @@
+D:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\bin\Debug\Number List  Manager.exe.config
+D:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\bin\Debug\Number List  Manager.exe
+D:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\bin\Debug\Number List  Manager.pdb
+D:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.csprojResolveAssemblyReference.cache
+D:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number_List__Manager.Form1.resources
+D:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number_List__Manager.Properties.Resources.resources
+D:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.csproj.GenerateResource.Cache
+D:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.exe
+D:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.pdb
+F:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\bin\Debug\Number List  Manager.exe.config
+F:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\bin\Debug\Number List  Manager.exe
+F:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\bin\Debug\Number List  Manager.pdb
+F:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number_List__Manager.Form1.resources
+F:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number_List__Manager.Properties.Resources.resources
+F:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.csproj.GenerateResource.Cache
+F:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.csproj.CoreCompileInputs.cache
+F:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.exe
+F:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.pdb
+E:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\bin\Debug\Number List  Manager.exe.config
+E:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\bin\Debug\Number List  Manager.exe
+E:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\bin\Debug\Number List  Manager.pdb
+E:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.csprojAssemblyReference.cache
+E:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number_List__Manager.Form1.resources
+E:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number_List__Manager.Properties.Resources.resources
+E:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.csproj.GenerateResource.cache
+E:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.csproj.CoreCompileInputs.cache
+E:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.exe
+E:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.pdb
+F:\Year 2 v2\Event and GUI Programming\Assignment 1\Number List  Manager\Number List  Manager\obj\Debug\Number List  Manager.csprojAssemblyReference.cache
